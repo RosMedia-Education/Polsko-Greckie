@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_lesson.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_lesson.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_intro2.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/intro2.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_grammar.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_grammar.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_photo.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_photo.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable_item_selector.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable/item_selector.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_entry_row.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/entry_row.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_phrasebook.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_phrasebook.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_rate.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_rate.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_back.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_games.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_games.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_info2.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/info2.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_top_panel.jpg.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/top_panel.jpg"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_facebook.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_facebook.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher2.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-hdpi/ic_launcher2.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_twitter.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_twitter.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_lesson_row.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/lesson_row.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_pause.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_pause.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_apps.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_apps.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_background.jpg.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/background.jpg"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_more_apps.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_more_apps.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_intro3.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/intro3.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_extras.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_extras.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_intro.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_phrasebook.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_phrasebook.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_info.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_info.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_intro.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_intro.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_remove_ads.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_remove_ads.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_play.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_play.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_btn_email.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/btn_email.png"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/layout_fragment_extras.xml.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/layout/fragment_extras.xml"
+    },
+    {
+        "merged": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/res/merged/debug/drawable-nodpi_info1.png.flat",
+        "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/drawable-nodpi/info1.png"
+    }
+]

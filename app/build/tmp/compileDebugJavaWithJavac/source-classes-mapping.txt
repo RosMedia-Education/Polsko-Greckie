@@ -1,0 +1,57 @@
+pl/rosmedia/rozmowkipolnorfull/PhotoFragment.java
+ pl.rosmedia.rozmowkipolnorfull.PhotoFragment
+pl/rosmedia/rozmowkipolnorfull/ImageToogleButton.java
+ pl.rosmedia.rozmowkipolnorfull.ImageToogleButton
+pl/rosmedia/rozmowkipolnorfull/Lesson.java
+ pl.rosmedia.rozmowkipolnorfull.Lesson
+pl/rosmedia/rozmowkipolnorfull/MainPagerAdapter.java
+ pl.rosmedia.rozmowkipolnorfull.MainPagerAdapter
+pl/rosmedia/rozmowkipolnorfull/LessonFragment.java
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$1
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$2
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$3
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$4
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$5
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$6
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$6$1
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$7
+ pl.rosmedia.rozmowkipolnorfull.LessonFragment$MP_State
+pl/rosmedia/rozmowkipolnorfull/MyApplication.java
+ pl.rosmedia.rozmowkipolnorfull.MyApplication
+pl/rosmedia/rozmowkipolnorfull/ExtrasFragment.java
+ pl.rosmedia.rozmowkipolnorfull.ExtrasFragment
+ pl.rosmedia.rozmowkipolnorfull.ExtrasFragment$1
+ pl.rosmedia.rozmowkipolnorfull.ExtrasFragment$2
+ pl.rosmedia.rozmowkipolnorfull.ExtrasFragment$3
+ pl.rosmedia.rozmowkipolnorfull.ExtrasFragment$4
+pl/rosmedia/rozmowkipolnorfull/IntroFragment.java
+ pl.rosmedia.rozmowkipolnorfull.IntroFragment
+pl/rosmedia/rozmowkipolnorfull/PhrasebookFragment.java
+ pl.rosmedia.rozmowkipolnorfull.PhrasebookFragment
+ pl.rosmedia.rozmowkipolnorfull.PhrasebookFragment$1
+pl/rosmedia/rozmowkipolnorfull/LessonsAdapter.java
+ pl.rosmedia.rozmowkipolnorfull.LessonsAdapter
+pl/rosmedia/rozmowkipolnorfull/Entry.java
+ pl.rosmedia.rozmowkipolnorfull.Entry
+pl/rosmedia/rozmowkipolnorfull/Data.java
+ pl.rosmedia.rozmowkipolnorfull.Data
+pl/rosmedia/rozmowkipolnorfull/LessonParser.java
+ pl.rosmedia.rozmowkipolnorfull.LessonParser
+pl/rosmedia/rozmowkipolnorfull/AssetImageLoadTask.java
+ pl.rosmedia.rozmowkipolnorfull.AssetImageLoadTask
+pl/rosmedia/rozmowkipolnorfull/EntriesAdapter.java
+ pl.rosmedia.rozmowkipolnorfull.EntriesAdapter
+pl/rosmedia/rozmowkipolnorfull/MainActivity.java
+ pl.rosmedia.rozmowkipolnorfull.MainActivity
+ pl.rosmedia.rozmowkipolnorfull.MainActivity$1
+ pl.rosmedia.rozmowkipolnorfull.MainActivity$2
+ pl.rosmedia.rozmowkipolnorfull.MainActivity$3
+ pl.rosmedia.rozmowkipolnorfull.MainActivity$4
+ pl.rosmedia.rozmowkipolnorfull.MainActivity$5
+pl/rosmedia/rozmowkipolnorfull/InfoFragment.java
+ pl.rosmedia.rozmowkipolnorfull.InfoFragment
+pl/rosmedia/rozmowkipolnorfull/PhotosPagerAdapter.java
+ pl.rosmedia.rozmowkipolnorfull.PhotosPagerAdapter
+pl/rosmedia/rozmowkipolnorfull/BuildConfig.java
+ pl.rosmedia.rozmowkipolnorfull.BuildConfig

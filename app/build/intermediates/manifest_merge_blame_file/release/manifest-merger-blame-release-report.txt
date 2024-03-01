@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pl.rosmedia.rozmowkipolgrefull"
+4    android:installLocation="auto"
+5    android:versionCode="5"
+6    android:versionName="1.4" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+9-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml
+11
+12    <permission
+12-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:22:5-24:47
+13        android:name="pl.rosmedia.rozmowkipolgrefull.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+13-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:23:9-81
+14        android:protectionLevel="signature" />
+14-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:24:9-44
+15
+16    <uses-permission android:name="pl.rosmedia.rozmowkipolgrefull.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+16-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:26:5-97
+16-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:26:22-94
+17
+18    <application
+18-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:7:5-27:19
+19        android:name="pl.rosmedia.rozmowkipolnorfull.MyApplication"
+19-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:8:9-38
+20        android:allowBackup="true"
+20-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:9:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/fb5718bf11eed2f01181f8bad27ac116/core-1.9.0/AndroidManifest.xml:28:18-86
+22        android:icon="@drawable/ic_launcher2"
+22-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:11:9-46
+23        android:label="@string/app_name"
+23-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:12:9-41
+24        android:largeHeap="true"
+24-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:10:9-33
+25        android:theme="@style/AppTheme" >
+25-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:13:9-40
+26        <activity
+26-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:14:9-24:20
+27            android:name="pl.rosmedia.rozmowkipolnorfull.MainActivity"
+27-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:15:13-71
+28            android:exported="true"
+28-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:18:13-36
+29            android:label="@string/app_name"
+29-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:17:13-45
+30            android:screenOrientation="portrait" >
+30-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:16:13-49
+31            <intent-filter>
+31-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:19:13-23:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:20:17-69
+32-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:20:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:22:17-77
+34-->/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/AndroidManifest.xml:22:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+40            android:authorities="pl.rosmedia.rozmowkipolgrefull.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.2.0] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/97e0b52fcc96539e57640137a54ea7ea/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/94a768ef0fe7a5a2d7beb54ef7da3da0/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/94a768ef0fe7a5a2d7beb54ef7da3da0/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/Dawid/.gradle/caches/transforms-2/files-2.1/94a768ef0fe7a5a2d7beb54ef7da3da0/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+48        </provider>
+49    </application>
+50
+51</manifest>

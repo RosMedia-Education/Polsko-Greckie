@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="exit_warning" translatable="false">Press BACK again to exit..</string>
+    <string name="please_wait" translatable="false">Please wait..</string>
+    <string name="remove_ads" translatable="false">Do you want to remove all ads?</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="restore" translatable="false">Restore my purchase</string>     
+    <string name="inapp_error" translatable="false">There is a problem with your purchase. Check your account, internet connection and try again later.</string>   
+    
+    <!-- NAZWA APLIKACJI -->
+    <string name="app_name" translatable="false">Rozmówki Greckie</string>
+    
+    <!-- NAZWY BUTTONÓW W DOLNYM PANELU -->
+    <string name="intro" translatable="false">Wstęp</string>
+    <string name="info" translatable="false">Info</string>
+    <string name="phrasebook" translatable="false">Rozmówki</string>
+    <string name="grammar" translatable="false">Gramatyka</string>
+    <string name="extras" translatable="false">Opcje</string>
+
+</resources>

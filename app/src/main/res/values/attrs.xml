@@ -1,0 +1,7 @@
+<resources>
+   <declare-styleable name="ImageToogleButton">
+       <attr name="imgOn" format="integer" />
+       <attr name="imgOff" format="integer" />
+       <attr name="checked" format="boolean" />
+   </declare-styleable>
+</resources>

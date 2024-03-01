@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:background="@drawable/background" >
+    
+    <RelativeLayout
+        android:id="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+	    <ImageView
+	        android:id="@+id/logo"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:contentDescription="@string/app_name"
+	        android:scaleType="fitXY"
+	        android:adjustViewBounds="true"
+	        android:src="@drawable/top_panel" />
+	    
+	    <LinearLayout 
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignTop="@+id/logo"
+	        android:layout_alignBottom="@+id/logo"
+	        android:orientation="horizontal" >
+	    
+		    <ImageView
+		        android:id="@+id/imgBack"
+		        android:layout_width="0dp"
+		        android:layout_height="wrap_content"
+		        android:layout_weight="0.1"
+		        android:layout_gravity="center_vertical" 
+		        android:scaleType="fitXY"
+		        android:adjustViewBounds="true"
+		        android:src="@drawable/btn_back"
+		        android:contentDescription="@string/app_name" />
+		    
+		    <View 
+		        android:layout_width="0dp"
+		        android:layout_height="1dp"
+		        android:layout_weight="0.9"
+		        />
+	    
+	    </LinearLayout>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/playerLayout"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_below="@+id/topLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+        <pl.rosmedia.rozmowkipolnorfull.ImageToogleButton
+            android:id="@+id/tPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" 
+            android:checked="true"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:layout_alignParentLeft="true"
+            custom:checked="false"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignTop="@+id/sbProgress"
+            android:layout_alignBottom="@+id/sbProgress"
+            custom:imgOn="@drawable/btn_pause"
+            custom:imgOff="@drawable/btn_play" />
+        
+        <SeekBar 
+            android:id="@+id/sbProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/tPlay"
+            android:layout_toLeftOf="@+id/tvPosition"
+            />
+        
+        <TextView
+            android:id="@+id/tvPosition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_gravity="center_vertical"
+            android:textColor="@android:color/white"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:gravity="center_vertical" />
+        
+    </RelativeLayout>
+    
+    <ListView
+        android:id="@+id/lvEntries"
+        android:layout_below="@+id/playerLayout"
+        android:divider="@null"
+        android:dividerHeight="1dp"
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent" >
+    
+    </ListView>
+
+</RelativeLayout>

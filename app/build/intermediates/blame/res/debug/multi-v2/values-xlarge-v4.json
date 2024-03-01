@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/Dawid/.gradle/caches/transforms-2/files-2.1/1a892c441ae00ef697e892fade298686/appcompat-1.6.1/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    }
+                },
+                {
+                    "source": "/Users/Dawid/Downloads/rozmowkipolgrefull/app/src/main/res/values-xlarge/styles.xml",
+                    "from": {
+                        "startLines": "6,15,24,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "186,527,863,692",
+                        "endLines": "12,17,27,22",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "489,682,1023,853"
+                    },
+                    "to": {
+                        "startLines": "8,15,18,22",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "473,781,941,1106",
+                        "endLines": "14,17,21,25",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "776,936,1101,1267"
+                    }
+                }
+            ]
+        }
+    ]
+}
